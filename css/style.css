@@ -1,0 +1,26 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,500&display=swap');
+
+/* common style */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #E5E5E5;
+    margin: auto;
+}
+
+.theme-color {
+    background-color: #562EFF;
+}
+
+.bg-color {
+    background-color: #E5E5E5;
+}
+
+h4 {
+    color: #562EFF;
+
+}
